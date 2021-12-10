@@ -2,7 +2,7 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Delta-world" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/delta" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/delta-world" vcs="Git" />
   </component>
 </project>
